@@ -8,7 +8,7 @@ I am writing this because I see a lot of people copying my work and selling it w
 
 You are allowed to modify the code of this client and publish your version of this client **either as open-source or closed-source, but not sold.** Please respect me, my project and yourself.
 
-# Argon Minecraft Ghost Client
+# Azure Minecraft Ghost Client
 
 ## Why?
 
