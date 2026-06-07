@@ -16,7 +16,6 @@ By using this source code, you agree to follow the terms outlined in the LICENSE
 - Publish modified versions if permitted by the LICENSE.
 
 ### Not Allowed
-- Claim AzureClient or its code as your own work.
 - Remove required attribution.
 - Sell AzureClient or modified versions unless explicitly permitted.
 - Misrepresent copied code as original work.
